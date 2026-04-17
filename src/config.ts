@@ -36,7 +36,7 @@ export const portfolioConfig: PortfolioConfig = {
   cvHref: "https://drive.google.com/file/d/149KIBXUTJ3weyQ2UcPOOb38kBOVQSK4l/view?usp=sharing",
   socialLinks: [
     { label: "WhatsApp", href: "https://wa.me/77761271436" },
-    { label: "Telegram", href: "https://t.me/daniilkhusnullin" },
+    { label: "Telegram", href: "https://t.me/iMontesyma" },
     { label: "Mail", href: "mailto:daniilkhusnullin@gmail.com" },
     { label: "LinkedIn", href: "https://www.linkedin.com/in/daniil-khusnullin-910207321" },
   ],
