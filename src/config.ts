@@ -33,7 +33,7 @@ export const portfolioConfig: PortfolioConfig = {
   location: "Limassol, Cyprus",
   summary:
     "I design and ship production-grade systems that move money, data, and decisions. The core focus is scalable architecture, operational visibility, and measurable business impact.",
-  cvHref: "https://drive.google.com/file/d/149KIBXUTJ3weyQ2UcPOOb38kBOVQSK4l/view?usp=sharing",
+  cvHref: "https://drive.google.com/drive/folders/16gH3sZGFfgYxjhwH77d_vr3Qhh8UHXSF?usp=sharing",
   socialLinks: [
     { label: "WhatsApp", href: "https://wa.me/77761271436" },
     { label: "Telegram", href: "https://t.me/iMontesyma" },
